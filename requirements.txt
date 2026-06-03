@@ -1,0 +1,10 @@
+aiogram>=3.7.0 aiohttp python-dotenv apscheduler requests pytz aiofiles
+aiosqlite
+
+Performance
+
+tgcrypto uvloop
+
+Production
+
+gunicorn
